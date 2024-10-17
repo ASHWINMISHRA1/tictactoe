@@ -1,6 +1,5 @@
-# tictactoe
 # Project Title : <Name of the Project>
-# tictactoe
+# TicTacToe
 #### Student Name : <Ashwinikumar Mishra>      
 #### Class : D6AD-B
 #### Roll No : <64>
