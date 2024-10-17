@@ -35,11 +35,15 @@ The game uses loops and conditions to efficiently evaluate the 3x3 grid for thes
 If a player wins or the game ends in a tie, the board and button states are reset for a new game.
 
 ## Program
-import javax.swing.*;
-import java.awt.*;
-import java.awt.event.*;
 
-public class TicTacToe implements ActionListener {
+    
+    import javax.swing.*;
+    import java.awt.*;         
+    import java.awt.event.*;
+
+
+    public class TicTacToe implements ActionListener {
+
     private JFrame frame;
     private JPanel panel;
     private JButton[][] buttons = new JButton[3][3]; // 2D array for buttons
