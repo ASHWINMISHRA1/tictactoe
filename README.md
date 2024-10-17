@@ -2,9 +2,9 @@
 # TicTacToe
 #### Student Name : <Ashwinikumar Mishra>      
 #### Class : D6AD-B
-#### Roll No : <64>
+#### Roll No : 64
 ## Link to the Github Repo : <>
-## Description of the Game : <The Tic-Tac-Toe game is a 2-player game where players take turns marking the spaces in a 3x3 grid with either an "X" or an "O". The player who succeeds in placing three respective marks in a horizontal, vertical, or diagonal row wins the game. If all nine spaces are filled without a winner, the game results in a tie.>
+## Description of the Game : The Tic-Tac-Toe game is a 2-player game where players take turns marking the spaces in a 3x3 grid with either an "X" or an "O". The player who succeeds in placing three respective marks in a horizontal, vertical, or diagonal row wins the game. If all nine spaces are filled without a winner, the game results in a tie.
 ## Data Structures Used :
 - DS 1 : Purpose
  *Used to store the buttons on the grid.*
